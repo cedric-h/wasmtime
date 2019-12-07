@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["builder","Create a `settings::Builder` for the shared settings group."]],"struct":[["Flags","Flags group `shared`."]],"trait":[["Configurable","A string-based configurator for settings groups."]]});
